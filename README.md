@@ -1,16 +1,21 @@
-## Hi there 👋
+# Portfólio de Dados
 
-<!--
-**gabriellopestech21/gabriellopestech21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu portfólio! 🚀  
+Sou estagiário em Análise de Dados, construindo carreira em **Data Science** e **Análise de Dados**.  
+Aqui você encontra projetos práticos que demonstram minhas habilidades em **Python, SQL, Power BI e ETL**.
 
-Here are some ideas to get you started:
+## 🔎 Projetos em destaque
+- **Análise de Vendas** → Exploração de dados com Python e SQL, identificando padrões e insights.
+- **Dashboard Power BI** → Visualização interativa para acompanhamento de métricas de negócio.
+- **Pipeline ETL em Python** → Automação de coleta, transformação e carga de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias utilizadas
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Power BI
+- Excel
+- ETL e automação de processos
+
+## 📫 Contato
+- [LinkedIn](https://linkedin.com/in/josegabriel2110)
+- [GitHub](https://github.com/josegabriel2110)
